@@ -12,7 +12,7 @@ For 1. "Dataframe.csv",
 EDA(Exploratry Data Analysis),
 For 1. "DataFrame.csv",
 >Distribution PLot is Plotted for each Attribute(Skewness)
-    --->https://drive.google.com/file/d/1KweS4xoCAx8-vdNsP3oHEy1JK2Qag-tM/view?usp=sharing 
+    --->" https://drive.google.com/file/d/1KweS4xoCAx8-vdNsP3oHEy1JK2Qag-tM/view?usp=sharing " 
 
 >Scatter PLot is Plotted between each Attribute(Trend)
     --->https://drive.google.com/file/d/1leFGG7v0pobGOsbT_BBqLnBMawuOJO-7/view?usp=sharing
