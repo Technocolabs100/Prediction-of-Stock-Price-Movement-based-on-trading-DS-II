@@ -4,7 +4,7 @@
 
 BLUEPRINT AS PER TEAM -A,( open , high , low , close , profir/loss , max_profit , adj_close , volume)
 
->![image](file:///home/kunal/Pictures/Screenshot%20from%202021-06-16%2000-07-34.png)
+>![image](https://user-images.githubusercontent.com/80449168/122106613-c6470b80-ce37-11eb-8a7c-ef3c670f20e3.png)
 
 
 DATA CLEANING,
