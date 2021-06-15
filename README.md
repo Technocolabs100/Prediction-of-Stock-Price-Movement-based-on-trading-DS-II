@@ -12,26 +12,20 @@ For 1. "Dataframe.csv",
 EDA(Exploratry Data Analysis),
 For 1. "DataFrame.csv",
 >Distribution PLot is Plotted for each Attribute(Skewness)
-
-    https://drive.google.com/file/d/1KweS4xoCAx8-vdNsP3oHEy1JK2Qag-tM/view?usp=sharing
-    
+> ![image](https://user-images.githubusercontent.com/80449168/122102751-65b5cf80-ce33-11eb-8867-21573c42321a.png)    
 
 >Scatter PLot is Plotted between each Attribute(Trend)
-
-    https://drive.google.com/file/d/1leFGG7v0pobGOsbT_BBqLnBMawuOJO-7/view?usp=sharing
+>![image](https://user-images.githubusercontent.com/80449168/122102671-4cad1e80-ce33-11eb-9efc-57fb96b75c9d.png)
     
-
 >Line PLot is PLotted for each attribute with respect to "Date"(Trend w.r.t "Date")
-
-    --->https://drive.google.com/file/d/1QiogMb3rAkOjYkck7ey_8qA9NPyzYUAF/view?usp=sharing
+> ![image](https://user-images.githubusercontent.com/80449168/122102817-79f9cc80-ce33-11eb-952b-051352c0577a.png)
 
 >Heat Matrix is Shown For Correlation Between Each Attribute(Linear Relation)
-
-    --->https://drive.google.com/file/d/1ZKdQswgoBBZQnhUAqqH6dQFDhAoYMiDY/view?usp=sharing
+>![image](https://user-images.githubusercontent.com/80449168/122102898-90a02380-ce33-11eb-8106-94a9787e873b.png)
 
 >Violin PLot is displayed for Each Attribute (Outliers)
+>![image](https://user-images.githubusercontent.com/80449168/122102957-a57cb700-ce33-11eb-87f4-07ddb2f390ae.png)
 
-    --->https://drive.google.com/file/d/11A5zFtUwQflxU32lkjrveV8O6AGbqytH/view?usp=sharing 
 
 *********************************************************************************************
 
@@ -45,24 +39,17 @@ For 2. "MSFT.csv",
 EDA(Exploratry Data Analysis),
 For 2. "MSFT.csv",
 >Distribution PLot is Plotted for each Attribute(Skewness)
-
-
-https://drive.google.com/file/d/1_bPWPygprObsv-ZgnOX-Y4ATjuHeAM3h/view?usp=sharing
-
+>![image](https://user-images.githubusercontent.com/80449168/122103004-b9c0b400-ce33-11eb-8aad-e322f91c4a84.png)
 
 >Scatter PLot is Plotted between each Attribute(Trend)
- 
- https://drive.google.com/file/d/1mWP0XwbIDPCbWzAQpmzXTaX3piDUCPat/view?usp=sharing
-   
+>![image](https://user-images.githubusercontent.com/80449168/122103076-d4932880-ce33-11eb-8bda-4613de10f707.png)  
 
 >Line PLot is PLotted for each attribute with respect to "Date"(Trend w.r.t "Date")
-
-   https://drive.google.com/file/d/1xpupPAQl-i0ViL2DT3cL0lckyKv1UyZ4/view?usp=sharing
+>![image](https://user-images.githubusercontent.com/80449168/122103148-ea085280-ce33-11eb-934c-38b54adaded7.png)
 
 >Heat Matrix is Shown For Correlation Between Each Attribute(Linear Relation)
-
-   https://drive.google.com/file/d/11taaijC8RXuKqQlneGx3WNDq8qbQZJB5/view?usp=sharing
+>![image](https://user-images.githubusercontent.com/80449168/122103238-060bf400-ce34-11eb-9a6d-aab3de5e5d97.png)
 
 >Box PLot is displayed for Each Attribute (Outliers)
+>![image](https://user-images.githubusercontent.com/80449168/122103320-1cb24b00-ce34-11eb-8dbc-7ce82fd01a15.png)
 
-    --->https://drive.google.com/file/d/1YQfo3ZkbqgT2gTcWHa0Lp9CN9F3TbBk8/view?usp=sharing
