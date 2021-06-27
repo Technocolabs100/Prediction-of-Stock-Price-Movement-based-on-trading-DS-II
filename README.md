@@ -1,6 +1,6 @@
 # Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 
-################## TEAM -A #####################
+################## TEAM -A #######################
 
 BLUEPRINT AS PER TEAM -A,( open , high , low , close , profir/loss , max_profit , adj_close , volume)
 
