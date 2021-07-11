@@ -494,26 +494,46 @@ with my_expander4:
 
         st.pyplot(fig8)
        
-st.sidebar.subheader("Sources")
-st.sidebar.markdown("""
-[Github for this project](https://github.com/Technocolabs100/Prediction-of-Stock-Price-Movement-based-on-trading-DS-II)""")
-st.sidebar.markdown("""
-[Linkedln](https://www.linkedin.com/company/technocolabs/)""")
-st.sidebar.markdown("""
-[Project Architeture](https://drive.google.com/file/d/1CvPsTD9EYfvhREMhK1GsoOqIZxVb0dfT/view)""")
-st.sidebar.markdown("""
-[Reasearch Paper](https://drive.google.com/file/d/1lf7GRaAmg5lwJF3Ik7irdFncvgc64nzo/view?usp=sharing)""")
-st.sidebar.markdown("""
-[Project Report](https://docs.google.com/presentation/d/15HfriKFJ5acUQJ1qqCTX2-4JDUT5InTOfC6PH3KF9EE/edit?usp=sharing)""")
-st.sidebar.markdown("""
-[Tableau Report](https://public.tableau.com/app/profile/deepika.goel/viz/flights_data_analysis/Dashboard1)""")
-st.sidebar.subheader("Presented by:")
-st.sidebar.write("1. Ashish")
-st.sidebar.write("2. Kunal")
-st.sidebar.write("3. Vrunda")
-st.sidebar.write("4. Priti")
+if st.checkbox("Show Credits"):
+    st.sidebar.markdown("<h1 style='text-align: left; color: green;'>Welcome!</h1>",
+                        unsafe_allow_html=True)
 
-st.sidebar.subheader("Under the Guidance of:")
-st.sidebar.write("1. Deepika Goel")
-st.sidebar.write("2. Yasin Shah")
+    urllib.request.urlretrieve("https://technocolabs.tech//assets//img//logo1.png", "logo1.png")
+    # img = Image.open("logo1.png")
+    # img.show()
+    img = Image.open("logo1.png")
+
+    # st.text[website](https://technocolabs.tech/)
+    # display image using streamlit
+    # width is used to set the width of an image
+    st.sidebar.image(img, width=200)
+
+    st.sidebar.subheader("Credits")
+
+    st.sidebar.subheader("Under Guidance of")
+    # **Guidance @ CDAC-ACTS, Pune**\n
+    st.sidebar.info(
+        """
+        1. [Yasin Shah] (https://www.linkedin.com/in/yasinshah9598)\n
+        2. [Deepika Goel] (https://www.linkedin.com/in/deepikagoel1)\n
+        3. Team @ [Technocolab](https://www.linkedin.com/company/technocolabs/)\n
+        """)
+    st.sidebar.subheader("Contributors/Project Team")
+    st.sidebar.info(
+        "1. [Kunal Sharma](https://www.linkedin.com/in/kunal-sharma-01476b194/)\n"
+        "2. [Ashish Bharadwaj](https://www.linkedin.com/in/ashish-b-30516092/)\n"
+        "3. [Priti Lahare](https://www.linkedin.com/in/priti-lahare-179144193/)\n"
+    )
+    st.sidebar.subheader("Project Report")
+    st.sidebar.info("[Project Report](https://docs.google.com/document/d/1Z2qNh5ts-EhWVE5N4u-3Ja9jlSd9IvWvm4sf9I_ue-s/edit?usp=sharing)\n")
+    st.sidebar.subheader("Poster Study")
+    st.sidebar.info("[Poster Study](https://drive.google.com/file/d/1DvXZs8RfU_3vHC0Y2qhwsWc6kYeTa1YN/view)\n")
+    st.sidebar.subheader("Research Paper")
+    st.sidebar.info("[Research Paper](https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050920X00056/1-s2.0-S1877050920308851/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQC6XzXuZ4Gz0dbs6PN%2FDaXaHRaglKj4KfhGELIp9YWjjQIgD9h2Pus4WvI1u6oKjIR0UI%2F%2BVZTsd6wNGApwcQutM5QqgwQIvf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDB22FYXhJ7THmMiXxyrXA1rZ2KkRT%2BZW%2BUYL9o2WtBlizddTAknNcGc4jERCRgouEKnApkK5vDs%2BCkDEDAXxrwR67TvnaNNPGiXnMJI045Zy37sj0P2x6AccQV7ACqwgnXcptBM0KYqWuQx%2Bm%2BzNzyHVohE2K2VOSifE4UGrlZVlCNmXPTzkB00xVAROG%2FTNR1v%2B6qACqHTvaCVqIpI%2B81Xsf7yJPpbbwOswEDCfttc67DMkBrVIlUGnByXnGHnCkijIcgaE8V6U2T16V77FJa3k0lerhSto%2Fg06R8v0P90ewHtX9BSn187PEKWN6UA%2FFJcLkfz1%2B2%2BqtuKiK6fIN2lLHTWq5JgRsOyd9XxmiF1gVOblX%2Fty%2FfQR1GrATfvYzcb80ZZscl5pho%2B1PS7TA0YuPBt8SIuT5GvuCw7gs8iBQwpQPC5x4QyHMxnaSm7DDIj8JoorEq0%2BkYUv0Fsdfeg1%2FqyAXwjK4zaqnPPzO9FTHJhJ4%2By8rnQSGDVvfILZvwEfDdvqNOYOTV6dd0mX2njkEK4Xz6%2F7MYUV2sMNdsQzbGd%2BFTBFnmoJS3ShR8au0ky1h6deYcHp8etJvxm%2B%2Bjal1cLDDItf%2BIkohjA4SaijrKN%2FKW6nG22ZUKDInsn3WfAG2xb%2FjzDZr6uHBjqlAZRwwJnViy5nlus2fTGPc5V0miti8Bcfl2HTl0aOUjahIIIdjbH7w0FfOFgtXmGuTS0oDAcdRiWGhomD954U34s%2BoS7upCyfyUcTrO6NgbjUupmEMTlZFzCLgOXOKeNNrlTZTMbav0deQJw%2BXkUoEEKBIZFPp0I5M0dmkZ%2BVumJ%2FRwBGAi4Stjqd6aAclO5kjCrac8gSipU9MUlM2Mm5NY%2BRYp9Lgg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210711T122628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3HPPI3UC%2F20210711%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0993d17d3157e16c3b21fabc2af9ec8b58677e6f8a2f24318f63db0d95087688&hash=7638c8f9304e88925aa21f96d30a3aa891552c76597be13a967035397624e747&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877050920308851&tid=spdf-7a3ebbad-e6d2-4d9a-bc77-beec2cca1847&sid=896ed7b21e5ef7437a6bd84-b1b5fd15247cgxrqb&type=client)\n")
+    st.sidebar.subheader("References")
+    st.sidebar.info("[Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning](https://youtu.be/H6du_pfuznE)\n")
+    st.sidebar.info("[Deployment of Project Stock Price Prediction-- Using Streamlit] (https://www.youtube.com/watch?v=qqPqq77nv_A) \n")
+    st.sidebar.subheader("Connect with Technocolabs")
+    st.sidebar.info("[Contact Us](https://technocolabs.tech/)\n")
+
 
