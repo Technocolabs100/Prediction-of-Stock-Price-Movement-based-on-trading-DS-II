@@ -493,4 +493,29 @@ with my_expander4:
         plt.xticks(rotation = 90)
 
         st.pyplot(fig8)
+       
+st.sidebar.subheader("Sources")
+st.sidebar.markdown("""
+[Github for this project](https://github.com/Technocolabs100/Reinforcement-Learning-for-Flight-Ticket-Pricing-DST-1)""")
+st.sidebar.markdown("""
+[Linkedln](https://www.linkedin.com/company/technocolabs/)""")
+st.sidebar.markdown("""
+[Project Architeture](https://drive.google.com/file/d/1CvPsTD9EYfvhREMhK1GsoOqIZxVb0dfT/view)""")
+st.sidebar.markdown("""
+[Reasearch Paper](https://drive.google.com/file/d/1lf7GRaAmg5lwJF3Ik7irdFncvgc64nzo/view?usp=sharing)""")
+st.sidebar.markdown("""
+[Presentation](https://docs.google.com/presentation/d/15HfriKFJ5acUQJ1qqCTX2-4JDUT5InTOfC6PH3KF9EE/edit?usp=sharing)""")
+st.sidebar.markdown("""
+[Tableau Report](https://public.tableau.com/app/profile/deepika.goel/viz/flights_data_analysis/Dashboard1)""")
+st.sidebar.subheader("Presented by:")
+st.sidebar.write("1. Ashish")
+st.sidebar.write("2. Kunal")
+st.sidebar.write("3. Vrunda")
+st.sidebar.write("4. Priti")
 
+st.sidebar.subheader("Under the Guidance of:")
+st.sidebar.write("1. Deepika Goel")
+st.sidebar.write("2. Yasin Shah")
+
+
+run()
