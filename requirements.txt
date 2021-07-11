@@ -1,6 +1,6 @@
 ﻿streamlit
 pandas==1.2.5
-numpy
+numpy==1.19.2
 scikit-learn
 yfinance
 keras
