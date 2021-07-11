@@ -496,7 +496,7 @@ with my_expander4:
        
 st.sidebar.subheader("Sources")
 st.sidebar.markdown("""
-[Github for this project](https://github.com/Technocolabs100/Reinforcement-Learning-for-Flight-Ticket-Pricing-DST-1)""")
+[Github for this project](https://github.com/Technocolabs100/Prediction-of-Stock-Price-Movement-based-on-trading-DS-II)""")
 st.sidebar.markdown("""
 [Linkedln](https://www.linkedin.com/company/technocolabs/)""")
 st.sidebar.markdown("""
@@ -504,7 +504,7 @@ st.sidebar.markdown("""
 st.sidebar.markdown("""
 [Reasearch Paper](https://drive.google.com/file/d/1lf7GRaAmg5lwJF3Ik7irdFncvgc64nzo/view?usp=sharing)""")
 st.sidebar.markdown("""
-[Presentation](https://docs.google.com/presentation/d/15HfriKFJ5acUQJ1qqCTX2-4JDUT5InTOfC6PH3KF9EE/edit?usp=sharing)""")
+[Project Report](https://docs.google.com/presentation/d/15HfriKFJ5acUQJ1qqCTX2-4JDUT5InTOfC6PH3KF9EE/edit?usp=sharing)""")
 st.sidebar.markdown("""
 [Tableau Report](https://public.tableau.com/app/profile/deepika.goel/viz/flights_data_analysis/Dashboard1)""")
 st.sidebar.subheader("Presented by:")
@@ -517,5 +517,3 @@ st.sidebar.subheader("Under the Guidance of:")
 st.sidebar.write("1. Deepika Goel")
 st.sidebar.write("2. Yasin Shah")
 
-
-run()
