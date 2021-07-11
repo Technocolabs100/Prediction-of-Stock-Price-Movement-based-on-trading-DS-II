@@ -493,7 +493,4 @@ with my_expander4:
         plt.xticks(rotation = 90)
 
         st.pyplot(fig8)
-st.markdown(
 
-            "<center><h3 style='text-align: centre; color: red;'>Developed By: AASHISH BHARDWAJ,KUNAL SHARMA,VRUNDA,PRITI</h3></center>",
-            unsafe_allow_html=True)
