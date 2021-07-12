@@ -4,6 +4,10 @@
 # Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 The Raw Datasets that have been taken in this model creation were: Dataframe.csv and MSFT.csv
 **********************************************************
+BLUEPRINT AS PER TEAM -A,( open , high , low , close , profir/loss , max_profit , adj_close , volume)
+
+>![image](https://drive.google.com/file/d/1EKsSTDsjaFSXlVAWIhmnH4Z893z9xj54/view?usp=sharing)
+
 Dataset description:
 
 1. DATAFRAME.csv : 
@@ -32,14 +36,14 @@ e. To check for the presence of outliers if any present in these datasets, we pl
 *************************************************************
 Links for different visualization plots of both the datasets:-
 
-> ![image](https://drive.google.com/file/d/17hWWCpYWR_LACdEGJVyvqg143FEt-2P9/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1FOM5jAHL0S6SDAPE-0dgwK-TmErLw6ec/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1bmOqztLi9Ngkn2B6RMoLksQc_7-PYJhZ/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1iy0rFdobtGX01jJ-8igFarAxHAh5-HYK/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1FAZ9AdTPfGS5owWhAOONBN6kaIrcdpB3/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1KIpoBPt4jcPJs1cYt6dC8CTLtAhERVYX/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1NPOOevN9xmTRkQT92kqu5llhfG8fOM4H/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1tQaD4rfsNgleb8HiDXcWacapIaPQ6bG2/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1aIG0abaAkU1qFaNmL9RCj9d39vYeWZEY/view?usp=sharing)
-> ![image](https://drive.google.com/file/d/1UeyWkEBp31aWCjKrdZXmxFDlhpKDYbr2/view?usp=sharing)
+>![image](https://drive.google.com/file/d/17hWWCpYWR_LACdEGJVyvqg143FEt-2P9/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1FOM5jAHL0S6SDAPE-0dgwK-TmErLw6ec/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1bmOqztLi9Ngkn2B6RMoLksQc_7-PYJhZ/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1iy0rFdobtGX01jJ-8igFarAxHAh5-HYK/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1FAZ9AdTPfGS5owWhAOONBN6kaIrcdpB3/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1KIpoBPt4jcPJs1cYt6dC8CTLtAhERVYX/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1NPOOevN9xmTRkQT92kqu5llhfG8fOM4H/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1tQaD4rfsNgleb8HiDXcWacapIaPQ6bG2/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1aIG0abaAkU1qFaNmL9RCj9d39vYeWZEY/view?usp=sharing)
+>![image](https://drive.google.com/file/d/1UeyWkEBp31aWCjKrdZXmxFDlhpKDYbr2/view?usp=sharing)
 
