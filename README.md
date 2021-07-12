@@ -92,3 +92,13 @@ R2 Score for Test Model is :0.9957951542413979
 
 =======
 >>>>>>> 112da0d00c1bbbf097fb4f600a031ee6953b8d8c
+
+#### Demo:
+
+
+#### Report File:
+
+[Prediction-of-Stock-Price-Movement-based-on-trading-DS-II.docx](https://github.com/Technocolabs100/Prediction-of-Stock-Price-Movement-based-on-trading-DS-II/files/6803673/Prediction-of-Stock-Price-Movement-based-on-trading-DS-II.docx)
+
+
+
