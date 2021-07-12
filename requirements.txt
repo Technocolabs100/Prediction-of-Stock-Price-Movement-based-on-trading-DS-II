@@ -1,0 +1,12 @@
+pandas
+numpy
+streamlit
+scikit-learn
+seaborn
+matplotlib
+plotly-express
+cufflinks
+plotly
+yfinance
+urllib3
+joblib
