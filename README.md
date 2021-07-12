@@ -31,6 +31,20 @@ For 1. "DataFrame.csv",
 >Violin PLot is displayed for Each Attribute (Outliers)
 >![image](https://user-images.githubusercontent.com/80449168/122102957-a57cb700-ce33-11eb-87f4-07ddb2f390ae.png)
 
+MODEL PREPARED ON LSTM & GRU
+For 1. "DataFrame.csv",-----> LSTM
+Root Mean Square Error for Trained Data is : 0.0056669180987400265
+Root Mean Square Error for Test Data is : 0.006346859081094111
+
+R2 Score for Trained Model is : 0.9994406225111279
+R2 Score for Test Model is : 0.9973499198188315
+
+For 1. "DataFrame.csv",-----> GRU
+Root Mean Square Error for Trained Data is : 0.013171538050559947
+Root Mean Square Error for Test Data is : 0.015511692524527944
+
+R2 Score for Trained Model is : 0.9969780721261131
+R2 Score for Test Model is : 0.9841707740783997
 
 *********************************************************************************************
 
@@ -58,4 +72,23 @@ For 2. "MSFT.csv",
 >Box PLot is displayed for Each Attribute (Outliers)
 >![image](https://user-images.githubusercontent.com/80449168/122103320-1cb24b00-ce34-11eb-8dbc-7ce82fd01a15.png)
 
+MODEL PREPARED ON LSTM & GRU
+For 1. "MSFT.csv",-----> LSTM
+Root Mean Square Error for Trained Data is : 0.002004906519085069
+Root Mean Square Error for Test Data is : 0.040218558743184314
 
+R2 Score for Trained Model is : 0.9986558486327152
+R2 Score for Test Model is : 0.9664974018277981
+
+For 1. "DataFrame.csv",-----> GRU
+Root Mean Square Error for Trained Data is : 0.0037504085130987885
+Root Mean Square Error for Test Data is : 0.014248275173150728
+
+R2 Score for Trained Model is : 0.9952965441280276
+R2 Score for Test Model is :0.9957951542413979
+***************************************************************************************************
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 112da0d00c1bbbf097fb4f600a031ee6953b8d8c
