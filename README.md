@@ -6,7 +6,7 @@ The Raw Datasets that have been taken in this model creation were: Dataframe.csv
 **********************************************************
 BLUEPRINT AS PER TEAM -A,( open , high , low , close , profir/loss , max_profit , adj_close , volume)
 
->![image](https://drive.google.com/file/d/1EKsSTDsjaFSXlVAWIhmnH4Z893z9xj54/view)
+[BLUE PRINT TEAM-B (Final) (2).pdf](https://github.com/Technocolabs100/Prediction-of-Stock-Price-Movement-based-on-trading-DS-II/files/6803688/BLUE.PRINT.TEAM-B.Final.2.pdf)
 
 
 Dataset description:
