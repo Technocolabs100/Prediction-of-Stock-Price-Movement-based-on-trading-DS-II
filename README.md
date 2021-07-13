@@ -8,6 +8,7 @@ BLUEPRINT AS PER TEAM -A,( open , high , low , close , profir/loss , max_profit 
 
 [BLUE PRINT TEAM-B (Final) (2).pdf](https://github.com/Technocolabs100/Prediction-of-Stock-Price-Movement-based-on-trading-DS-II/files/6803688/BLUE.PRINT.TEAM-B.Final.2.pdf)
 
+![2021-07-13 (234)](https://user-images.githubusercontent.com/80449168/125419055-2e1a43d0-b631-42b7-bac2-2fa5ba76b1a8.png)
 
 Dataset description:
 
@@ -49,8 +50,10 @@ Different visualization plots of both the datasets:-
 
 #### Demo
 
+https://user-images.githubusercontent.com/80449168/125418955-6ed2493d-8935-4fef-abae-858c87d2c18a.mp4
 
 #### Report File
+
 [TECHNOCOLABS DATA SCIENCE.pdf](https://github.com/Technocolabs100/Prediction-of-Stock-Price-Movement-based-on-trading-DS-II/files/6807135/TECHNOCOLABS.DATA.SCIENCE.pdf)
 
 
